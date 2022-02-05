@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Daniel
 #### I'm a software engineer, mainly focusing on web development.
-Mostly I'm working in Java backend web development with the Spring technology.
+Mostly I'm working with Java backend web development with the Spring technology.
 
 Skills/Tools:
 
